@@ -1,2 +1,2 @@
 # patternplus
-some problems in pattern
+some intermediate level pattern problems in java
